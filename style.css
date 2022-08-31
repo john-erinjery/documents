@@ -1,0 +1,22 @@
+body{
+	background-color : black;
+	color: white;
+}
+a{
+	text-decoration: underline;
+	color:  lightblue;
+	font-size: 18px;
+}
+#main-header{
+	font-size:  22px;
+}
+
+.pdf-container{
+	height:  99.2vh;
+	width:  99.45vw;
+}
+
+embed{
+	height:  100%;
+	width:  100%;
+}
